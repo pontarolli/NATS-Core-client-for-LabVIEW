@@ -15,6 +15,6 @@ $  docker compose up -d
 
 ## Run the vis from Labview
 
-1. Publisher
+1. Simple NATS Client Publisher.vi
 
-2. Subscriber
+2. Simple NATS Client Reader.vi

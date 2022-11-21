@@ -1,11 +1,9 @@
-# NATS-Core-client-for-LabVIEW
+# [NATS-Core-client-for-LabVIEW](https://www.vipm.io/package/nats_core/)
 
 
-## Install Package
+## Install NATS Core Package
 
-1. Download from site [NATS Core by Drew Herron - Toolkit for LabVIEW Download](https://www.vipm.io/package/nats_core/) or repository nats_core-1.0.0.1.vip
-
-2. Install using the JKI VI Package Manager.
+1. Run the file nats_core-1.0.0.1.vip
 
 ## Installing a NATS Server
 
@@ -14,3 +12,9 @@
 ```bash
 $  docker compose up -d
 ```
+
+## Run the vis from Labview
+
+1. Publisher
+
+2. Subscriber
